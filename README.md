@@ -45,6 +45,8 @@ This project consists of two services: a basic GraphQL backend service and a ser
     ```bash
     npm run dev
 
+The server will run at http://localhost:3000/graphql
+
 
 ## Usage
 

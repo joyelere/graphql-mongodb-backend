@@ -79,7 +79,7 @@ mutation {
 
 ### Signin
 
-This mutation allows users to sign in by providing their registered email and password. It returns a JWT token upon successful authentication.
+This mutation allows users to sign in by providing their registered `email` and `password`. It returns a JWT token upon successful authentication.
 
 <details>
 <summary>Click to expand</summary>
@@ -98,7 +98,7 @@ mutation {
 
 ### Get All Users
 
-This query retrieves a list of all users in the system, including their id, firstname, lastname, and email.
+This query retrieves a list of all users in the system, including their `id`, `firstname`, `lastname`, and `email`.
 
 <details>
 <summary>Click to expand</summary>
@@ -118,7 +118,7 @@ query {
 
 ### Get User by ID
 
-This query allows you to fetch a user's information by specifying their id.
+This query allows you to fetch a user's information by specifying their `id`.
 
 <details>
 <summary>Click to expand</summary>

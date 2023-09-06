@@ -32,16 +32,16 @@ This project consists of two services: a basic GraphQL backend service and a ser
    git clone https://github.com/joyelere/graphql-mongodb-backend.git
 
 2. Install dependencies:
-    ```bash 
+
    npm install
 
-3. Navigate to the project directory:
+4. Navigate to the project directory:
    ```bash
    cd graphql-mongodb-backend
 
-4.  Configure the application by editing the **config.js** file in the project root. Update the JWT secret key as needed
+5.  Configure the application by editing the **config.js** file in the project root. Update the JWT secret key as needed
 
-5.  Start the server:
+6.  Start the server:
     ```bash
     npm run dev
 
